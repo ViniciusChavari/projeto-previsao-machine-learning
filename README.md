@@ -17,8 +17,8 @@ que instituições financeiras tomem decisões mais rápidas e precisas, reduzin
 - **Modelos Implementados:** - **Random Forest Classifier** (Modelo de Árvores de Decisão)
 - **K-Nearest Neighbors (KNN)**
 - **Métrica de Sucesso:** Acurácia de Classificação.
-- 
-**Vencedor do Teste: Random Forest Classifier (Apresentou a melhor performance e acurácia na base de teste, sendo selecionado como o modelo principal para predição)**
+  
+> Vencedor do Teste: Random Forest Classifier (Apresentou a melhor performance e acurácia na base de teste, sendo selecionado como o modelo principal para predição).
 
 ## Engenharia de Software e Processos
 Para este modelo, apliquei o conceito de **Modularidade e Abstração**, garantindo um fluxo de dados limpo:
